@@ -25,4 +25,3 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 Run File
-Python youtube.py
