@@ -1,0 +1,7 @@
+opencv-python-headless
+scikit-image
+fpdf
+yt-dlp
+youtube-transcript-api
+Pillow
+google-colab
